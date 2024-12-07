@@ -1,8 +1,8 @@
 # Hi there, I'm Pavanjit Subash 👋
-I'm a passionate coder from Kerala, India, with an interest in languages like Python, C++, and more. My primary focus lies in concepts such as **Artificial Intelligence** and other exciting topics in tech.
+I'm a passionate coder from Kerala, India, with an interest in languages like Python, C++, and more. My primary focus lies in concepts such as Artificial Intelligence, Web3 and Blockchain, Quantum Computing and other exciting topics in tech.
 
-- 🌱 **Currently learning**: [insert topics you're learning]
-- 🔭 **Working on**: [project you're working on]
+- 🌱 **Currently learning**: QML, GenAI, NLP 
+- 🔭 **Working on**: AI-based Drone Surveillance for Thermal Anomaly Detection and Gas Monitoring in Power Plant Boilers.
 - 💻 **Languages & Tools**:  
   ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
   ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)  
