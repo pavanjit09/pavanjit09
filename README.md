@@ -17,4 +17,4 @@ I'm a passionate coder from Kerala, India, with an interest in languages like Py
   [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/pavanjitsubash)
 
 ## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pavanjit-subash&show_icons=true&hide_title=true&count_private=true&hide=prs)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pavanjit09&show_icons=true&hide_title=true&count_private=true&hide=prs)
