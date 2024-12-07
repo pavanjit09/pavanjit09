@@ -4,7 +4,7 @@ I'm a passionate coder from Kerala, India, with an interest in languages like Py
 - 🌱 **Currently learning**: QML, GenAI, NLP 
 - 🔭 **Working on**: AI-based Drone Surveillance for Thermal Anomaly Detection and Gas Monitoring in Power Plant Boilers.
 - 💻 **Languages & Tools**:  
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
   ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)  
   ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)  
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
@@ -19,7 +19,7 @@ I'm a passionate coder from Kerala, India, with an interest in languages like Py
   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)  
   ![Cloud](https://img.shields.io/badge/Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)  
   ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-   ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) 
+  ![OpenCV](https://img.shields.io/badge/OpenCV-5C3C6E?style=flat&logo=opencv&logoColor=white)  
 
 - 📫 **Connect with me**:  
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pavanjit-subash-b622b3327/)  
