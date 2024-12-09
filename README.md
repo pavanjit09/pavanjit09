@@ -1,5 +1,5 @@
 # Hi there, I'm Pavanjit Subash 👋
-![Profile Views](https://komarev.com/ghpvc/?username=pavanjitsubash&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=pavanjit09&color=blue)
 I'm a passionate coder from Kerala, India, with an interest in languages like Python, C++, and more. My primary focus lies in concepts such as Artificial Intelligence, Web3 and Blockchain, Quantum Computing and other exciting topics in tech.
 
 - 🌱 **Currently learning**: QML, GenAI, NLP 
